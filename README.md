@@ -1,0 +1,1 @@
+# Torque_Calculation_for_Robotic_Arm_Motors
